@@ -15,5 +15,6 @@ print("Your Name is {firstname} {lastname}".format(lastname = "Singla",firstname
 result = 111/2222
 print(result)
 print("Value is {r:55.21}".format(r = result)) #{value:width.precision}
-#other method
+
+#newer method
 print(f"Value is {result}")
