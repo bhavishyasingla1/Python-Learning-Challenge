@@ -1,7 +1,7 @@
 #lists
 mylist = [1,2,3]
 print(len(mylist))
-mylist = ["hello", 12, 33.33] #can support ultiple datatypes
+mylist = ["hello", 12, 33.33] #can support multiple datatypes
 print(len(mylist)) #finding length of list using len function
 
 #indexing & slicing
@@ -29,3 +29,5 @@ print(mylist)
 listt = [8,6,5,4,3,1]
 print(listt.sort()) #it doesnot return anything but sort the list
 print(listt)
+
+#similarly .reverse() function to reverse everything in a list
